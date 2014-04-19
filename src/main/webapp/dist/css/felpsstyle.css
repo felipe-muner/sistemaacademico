@@ -1,0 +1,14 @@
+#autenticacao{
+	margin-top: 100px;	
+	width: 650px;
+}
+#formAutenticacao{
+	margin-top: 20px;
+}
+#principal div.jumbotron{
+	margin-bottom: 0px;
+}
+
+a{
+	cursor: pointer;
+}
